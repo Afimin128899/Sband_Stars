@@ -5,7 +5,7 @@ from keyboards.main import main_menu
 
 BOT_TOKEN = "ВАШ_BOT_TOKEN"
 ADMIN_ID = 548858090
-FLYER_API_KEY = "ВАШ_FLYER_API_KEY"
+FLYER_API_KEY = "FL-JCQcno-ZEliXE-fQqxRr-rfbkQS"
 
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher()
