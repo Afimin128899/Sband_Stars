@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, F
 from handlers import start, tasks, profile, withdraw, admin
 from keyboards.main import main_menu
 
-BOT_TOKEN = "ВАШ_BOT_TOKEN"
+BOT_TOKEN = "8389664932:AAHw-vE5o52ODbQgUPcHf5CsSlhAIls_vDE"
 ADMIN_ID = 548858090
 FLYER_API_KEY = "FL-JCQcno-ZEliXE-fQqxRr-rfbkQS"
 
